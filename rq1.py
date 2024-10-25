@@ -1,6 +1,6 @@
 '''
 Aidan Kiser
-May 04, 2020 
+May 04, 2020 1
 Answer to RQ1 
 '''
 import os 
